@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with MY OWN FUCKING HANDS -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="default0000" x="0" y="0" width="352" height="323"/>
+	<SubTexture name="angry0000" x="0" y="323" width="304" height="279"/>
+</TextureAtlas>

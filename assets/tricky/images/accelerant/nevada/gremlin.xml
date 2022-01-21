@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gremlin.png">
+<SubTexture name="enter0000" x="0" y="0" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0001" x="496" y="0" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0002" x="992" y="0" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0003" x="1488" y="0" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0004" x="0" y="293" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0005" x="496" y="293" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0006" x="992" y="293" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0007" x="1488" y="293" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0008" x="0" y="586" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0009" x="496" y="586" width="496" height="293" frameX="1" frameY="-19" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0010" x="992" y="586" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0011" x="1449" y="586" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0012" x="0" y="879" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0013" x="457" y="879" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0014" x="914" y="879" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0015" x="1371" y="879" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="enter0016" x="0" y="1166" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0000" x="457" y="1166" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0001" x="914" y="1166" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0002" x="1371" y="1166" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0003" x="0" y="1453" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0004" x="457" y="1453" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0005" x="914" y="1453" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0006" x="1371" y="1453" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0007" x="0" y="1740" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+<SubTexture name="idle0008" x="457" y="1740" width="457" height="287" frameX="0" frameY="0" frameWidth="496" frameHeight="293" />
+</TextureAtlas>

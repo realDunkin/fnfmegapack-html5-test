@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maritza.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MaritzaCLAP0000" x="20" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0001" x="20" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0002" x="545" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0003" x="545" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0004" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0005" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0006" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0007" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0008" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0009" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0010" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0011" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0012" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0013" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaCLAP0014" x="1070" y="20" width="505" height="697"/>
+	<SubTexture name="MaritzaDOWN0000" x="1595" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0001" x="1595" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0002" x="2301" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0003" x="2301" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0004" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0005" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0006" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0007" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0008" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaDOWN0009" x="3007" y="20" width="686" height="520"/>
+	<SubTexture name="MaritzaIDLE0000" x="20" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0001" x="20" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0002" x="529" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0003" x="529" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0004" x="1038" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0005" x="1038" y="737" width="489" height="620" frameX="0" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0006" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0007" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0008" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0009" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0010" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0011" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0012" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0013" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaIDLE0014" x="1547" y="737" width="489" height="620" frameX="-1" frameY="0" frameWidth="490" frameHeight="620"/>
+	<SubTexture name="MaritzaLEFT0000" x="2056" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0001" x="2056" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0002" x="2621" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0003" x="2621" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0004" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0005" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0006" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0007" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0008" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0009" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0010" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0011" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0012" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0013" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaLEFT0014" x="3186" y="737" width="545" height="609"/>
+	<SubTexture name="MaritzaRIGHT0000" x="20" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0001" x="20" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0002" x="492" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0003" x="492" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0004" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0005" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0006" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0007" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0008" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0009" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0010" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0011" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0012" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0013" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0014" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaRIGHT0015" x="964" y="1377" width="452" height="619"/>
+	<SubTexture name="MaritzaUP0000" x="1436" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0001" x="1436" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0002" x="1914" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0003" x="1914" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0004" x="2392" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0005" x="2392" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0006" x="2870" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0007" x="2870" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0008" x="3348" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0009" x="3348" y="1377" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0010" x="20" y="2185" width="458" height="788"/>
+	<SubTexture name="MaritzaUP0011" x="20" y="2185" width="458" height="788"/>
+</TextureAtlas>

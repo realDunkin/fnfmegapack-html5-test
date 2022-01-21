@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MaavoIvette.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MAAVETTE0000" x="10" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0001" x="10" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0002" x="663" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0003" x="663" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0004" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0005" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0006" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0007" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0008" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0009" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0010" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0011" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0012" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0013" x="1316" y="10" width="643" height="759"/>
+	<SubTexture name="MAAVETTE0014" x="1316" y="10" width="643" height="759"/>
+</TextureAtlas>

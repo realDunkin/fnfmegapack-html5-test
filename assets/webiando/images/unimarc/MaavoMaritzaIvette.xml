@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MaavoMaritzaIvette.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="familiafelis0000" x="10" y="10" width="745" height="820"/>
+	<SubTexture name="familiafelis0001" x="10" y="10" width="745" height="820"/>
+	<SubTexture name="familiafelis0002" x="765" y="10" width="745" height="820"/>
+	<SubTexture name="familiafelis0003" x="765" y="10" width="745" height="820"/>
+	<SubTexture name="familiafelis0004" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0005" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0006" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0007" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0008" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0009" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0010" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0011" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0012" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0013" x="10" y="840" width="745" height="820"/>
+	<SubTexture name="familiafelis0014" x="10" y="840" width="745" height="820"/>
+</TextureAtlas>

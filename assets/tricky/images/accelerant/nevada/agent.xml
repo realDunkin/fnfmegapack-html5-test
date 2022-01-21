@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="poo poo.png"><SubTexture name="poo poo agent0000" x="0" y="0" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0001" x="347" y="0" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0002" x="694" y="0" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0003" x="1041" y="0" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0004" x="0" y="301" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0005" x="347" y="301" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0006" x="694" y="301" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0007" x="1041" y="301" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0008" x="0" y="602" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0009" x="347" y="602" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0010" x="694" y="602" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0011" x="1041" y="602" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0012" x="0" y="903" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0013" x="347" y="903" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0014" x="694" y="903" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+<SubTexture name="poo poo agent0015" x="1041" y="903" width="347" height="301" frameX="0" frameY="0" frameWidth="347" frameHeight="301" />
+</TextureAtlas>
