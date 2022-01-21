@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOUTH.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOUTHANIM0000" x="0" y="0" width="588" height="151" frameX="-4" frameY="-17" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0001" x="598" y="0" width="588" height="151" frameX="-4" frameY="-17" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0002" x="1196" y="0" width="591" height="162" frameX="-2" frameY="-11" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0003" x="601" y="172" width="595" height="184" frameX="0" frameY="0" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0004" x="1206" y="172" width="595" height="183" frameX="-1" frameY="-1" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0005" x="601" y="172" width="595" height="184" frameX="0" frameY="0" frameWidth="596" frameHeight="184"/>
+	<SubTexture name="MOUTHANIM0006" x="1206" y="172" width="595" height="183" frameX="-1" frameY="-1" frameWidth="596" frameHeight="184"/>
+</TextureAtlas>
