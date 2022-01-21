@@ -1,0 +1,11 @@
+[178[ [179[ [223[ [216[ |givinALittle| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT7` || == Aww yea! That was funky indeed!
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Mhm! Impressive as always.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == I agree. We really maximalized the amount of fun we could've possibly had!
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == How about another round?
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT8` || == Hmm... what do you think?
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == I don't mind it really...
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == The sun is setting down so we have a nice vibe for another round.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT9` || == You're right!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Bring it on Hex!
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == My circuits are ready!

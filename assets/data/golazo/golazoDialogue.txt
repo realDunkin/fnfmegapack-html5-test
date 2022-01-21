@@ -1,0 +1,15 @@
+bf:right scooby:left ivette:left maavo:left maritza:left gf:left shaggy:left
+:4:happy:0.05:0:Wow, no sabia que se podia bailar cueca asi.:1
+:2:talk:0.05:0:Es porque eso no fue cueca...:1
+:4:funny:0.05:0:...:1
+:1:happy:0.05:0:¿Donde estaran los chorizos?:2
+:6:talk:0.05:0:¡Scooby! ¡Scooby! Chucha ahi estai amigo:3
+:3:what:0.05:0:¿Shaggy? ¿Scooby?\n¿Que hacen ustedes dos aqui?:4
+:6:talk:0.05:0:Pos que mas po? Aqui comprando\ncosas pa la previa amigo:5
+:1:talk:0.05:0:Wena po Shaggy encontre el pasillo\nde los fiambres:4
+:6:happy:0.05:0:Caracoles Scooby, deja de dar hambre.:4
+:0:talk:0.05:0:Beep:4
+:6:talk:0.05:0:Oh tu tambien estas aqui viejo, ya que\nestamos ¿No te parece que probemos que\ntan fuerte te has vuelto?:5
+:5:talk:0.05:0:Momento, solo queremos carbon.:5
+:0:talk:0.05:0:Boop:5
+:6:talk:0.05:0:Muy bien, pero dejame advertirte que\nno soy el mismo cuando tengo hambre.:6

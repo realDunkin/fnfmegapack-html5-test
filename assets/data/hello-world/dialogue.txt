@@ -1,0 +1,11 @@
+[178[ [179[ [223[ [216[ |givinALittle| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT10` || == Another great round! Vibing levels are off the charts!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Yea, too bad the sun is gone now, and it's getting late.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Should we get going?
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT11` || == Probably, maybe i should call my parents that i'll be home soon.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Aren't you an adult already?
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == You should know more than anyone my parents worry too much.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT12` || == Sorry to bust in but are you up for another one?
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Hmm, i dunno, like i said it will be night soon so...
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Pretty please? I will be a very happy bot if you say yes!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Mmmmmmmm, fine. Just this once.

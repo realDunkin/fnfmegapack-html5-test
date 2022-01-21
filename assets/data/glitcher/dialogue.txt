@@ -1,0 +1,34 @@
+[178[ [179[ [223[ [216[ |givinALittle| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT13` || == Huff.. puff... wow we spent a whole day on this.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Aren't you tired?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Nope! Not yet at least.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == My battery is solar-based so i'm saving energy at nights!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Pff, lucky you then.
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT14` || == I'm tired though... I think we should go now.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT15` || == I agree.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT15` || == Well, see ya around Hex!
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT16` || == Yes, it was very fun! Good night-
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT17` |stop| =bzzt= BZZZZZZZZZZT-
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT18` |hectic| == H-Huh? Hex?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == ...Uh oh.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == I think we might have a problem...
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || ==  What problem?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT19` || == I probably used too much processing power and let my guard down...
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Something might have passed by my defenses, which means...
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT20` || == There might be a virus inside me.
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || ==  Huh? Wait, isn't that like, dangerous to machines?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == VERY dangerous.... oh no.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT21` || == I think it wants to take control over the system.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || ==  Shoot... can't you do something to prevent that?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == I... don't think i can... but.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Wait. Maybe you can.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT22` || ==  Huh?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Grab my mic and fight that thing off!
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == If you order the system to input enough mic patterns it might crash.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Then i'll enter sleep mode and run a safety scan which will kill that thing.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT23` || == Please! You're my only hope right now!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || ==  ...
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT24` || ==  ...Alright Hex, i'll try. I'm not leaving you behind.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || ==  Are you ready?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT25` || == ...
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT26` || == ...I'm always ready.

@@ -1,0 +1,23 @@
+[178[ [179[ [223[ [216[ |givinALittle| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT1` || == Geez... That was intense. Have you seen his face?
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Yea, it was very uh.... "ballistic".
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == At least now we can go to the park like we originally intended!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Mhm!
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT2` || == You know, i really had fun during all those weeks spent with you.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == I'm glad you did... 
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Makes me wonder who will be next to challenge you, pff.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Hopefully no one anytime soon, i'm tired... 
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .#FF000000. ~~ `` || == Hello!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT3` || == Hmm?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .#FF000000. ~~ `hex/CUT4` || == Are you perhaps up for a game or two?
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Uhh... sorry dude, i'm not really good at basketball.
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .#FF000000. ~~ `` || == Oh, no no, I meant like, you know, the microphone.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Oh! Maybe then- Wait a minute.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Are you another guy that's not cool with me dating her?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .#FF000000. ~~ `hex/CUT5` || == Huh? No, where did that come from?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .#FF000000. ~~ `` || == I just thought it would be fun to use my microphone after a long time!
+:gf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Hmm... he does seem chill, what do you think?
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == If it's gonna be just for fun then I'm up for it!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Are you ready then... uh... what's your name?
+:hex: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^hexText^ !#FF000000! ?#FFffffff? .. ~~ `hex/CUT6` || == Hex! I'm always ready!
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == Alright Hex, let's funk!

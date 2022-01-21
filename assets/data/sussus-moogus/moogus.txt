@@ -1,0 +1,12 @@
+[178[ [179[ [223[ [216[ || *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !shocked! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == oh my god please don't kill me Impostor Among Us
+:red: !happy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == im not gonna kill you lmao
+:red: !happy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == because like
+:red: !happy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == im a crewmate
+:bf: !happy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == oh okay
+:gf: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == WHAT
+:gf: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == no dude you literally have a knife
+:gf: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^gfText^ !#FF000000! ?#FFffffff? .. ~~ `` || == actually shut the fuck up dude
+:red: !mad! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == ...
+:red: !mad! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == okay you crossed the line
+:red: !mad! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^susText^ !#FF000000! ?#FFffffff? .. ~~ `` || == now we HAVE to rap battle. you fucking dumbass
