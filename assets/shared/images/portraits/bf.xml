@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with MY OWN FUCKING HANDS -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="default0000" x="0" y="0" width="410" height="272"/>
+	<SubTexture name="shocked0000" x="0" y="272" width="353" height="315"/>
+	<SubTexture name="happy0000" x="0" y="600" width="337" height="280"/>
+</TextureAtlas>

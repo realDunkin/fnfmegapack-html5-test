@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MajinBFAnims.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF MAJINATION instance 10000" x="0" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10001" x="898" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10002" x="1796" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10003" x="2694" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10004" x="3592" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10005" x="4490" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10006" x="5388" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10007" x="6286" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10008" x="7184" y="0" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10009" x="0" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10010" x="898" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10011" x="1796" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10012" x="2694" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10013" x="3592" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10014" x="4490" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10015" x="5388" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10016" x="6286" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10017" x="7184" y="960" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10018" x="0" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10019" x="898" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10020" x="1796" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10021" x="2694" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10022" x="3592" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10023" x="4490" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10024" x="5388" y="1920" width="898" height="960"/>
+	<SubTexture name="BF MAJINATION instance 10025" x="6286" y="1920" width="898" height="960"/>
+	<SubTexture name="BF hit instance 10000" x="7184" y="1920" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10001" x="0" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10002" x="650" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10003" x="1300" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10004" x="1950" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10005" x="2600" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10006" x="3250" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10007" x="3900" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10008" x="4550" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10009" x="5200" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10010" x="5850" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10011" x="6500" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10012" x="7150" y="2880" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10013" x="0" y="3542" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10014" x="650" y="3542" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10015" x="1300" y="3542" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10016" x="1950" y="3542" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10017" x="2600" y="3542" width="650" height="662"/>
+	<SubTexture name="BF hit instance 10018" x="3250" y="3542" width="650" height="662"/>
+</TextureAtlas>
