@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tiky.png">
+<SubTexture name="fall0000" x="0" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0001" x="651" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0002" x="1302" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0003" x="1953" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0004" x="0" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0005" x="651" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0006" x="1302" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="fall0007" x="1953" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deimous.png">
+<SubTexture name="deimous land0000" x="0" y="0" width="484" height="691" frameX="0" frameY="441" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous land0001" x="484" y="0" width="484" height="691" frameX="0" frameY="441" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous land0002" x="968" y="0" width="484" height="691" frameX="0" frameY="441" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous land0003" x="0" y="691" width="484" height="691" frameX="0" frameY="441" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous dance0000" x="484" y="691" width="403" height="250" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous dance0001" x="887" y="691" width="403" height="250" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous dance0002" x="0" y="1382" width="403" height="250" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous dance0003" x="403" y="1382" width="403" height="250" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous dance0004" x="806" y="1382" width="403" height="250" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0000" x="0" y="1632" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0001" x="631" y="1632" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0002" x="1262" y="1632" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0003" x="0" y="2075" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0004" x="631" y="2075" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+<SubTexture name="deimous shoot0005" x="1262" y="2075" width="631" height="443" frameX="0" frameY="0" frameWidth="631" frameHeight="691" />
+</TextureAtlas>

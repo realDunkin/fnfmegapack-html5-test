@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="genteFront.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BopCrowdFront0000" x="10" y="10" width="2521" height="1476" frameX="0" frameY="-2" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0001" x="2541" y="10" width="2521" height="1451" frameX="0" frameY="-25" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0002" x="5072" y="10" width="2521" height="1468" frameX="0" frameY="-8" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0003" x="10" y="1496" width="2521" height="1468" frameX="0" frameY="-8" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0004" x="2541" y="1496" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0005" x="5072" y="1496" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0006" x="10" y="2982" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0007" x="2541" y="2982" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0008" x="5072" y="2982" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0009" x="10" y="4468" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0010" x="2541" y="4468" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0011" x="5072" y="4468" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+	<SubTexture name="BopCrowdFront0012" x="10" y="5954" width="2521" height="1476" frameX="0" frameY="0" frameWidth="2521" frameHeight="1478"/>
+</TextureAtlas>

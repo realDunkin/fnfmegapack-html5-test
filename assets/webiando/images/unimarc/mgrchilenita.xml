@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mgrchilenita.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meguruchilenita instance 10000" x="0" y="0" width="328" height="379" pivotX="0.75" pivotY="0.1" frameX="0" frameY="-14" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10001" x="0" y="0" width="328" height="379" frameX="0" frameY="-14" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10002" x="380" y="0" width="324" height="382" frameX="-1" frameY="-11" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10003" x="380" y="0" width="324" height="382" frameX="-1" frameY="-11" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10004" x="0" y="434" width="321" height="387" frameX="-2" frameY="-7" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10005" x="0" y="434" width="321" height="387" frameX="-2" frameY="-7" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10006" x="373" y="434" width="317" height="391" frameX="-1" frameY="-3" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10007" x="373" y="434" width="317" height="391" frameX="-1" frameY="-3" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10008" x="0" y="877" width="315" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10009" x="0" y="877" width="315" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10010" x="367" y="877" width="314" height="394" frameX="0" frameY="0" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10011" x="367" y="877" width="314" height="394" frameX="0" frameY="0" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10012" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10013" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10014" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10015" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10016" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10017" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10018" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10019" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10020" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10021" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10022" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+	<SubTexture name="meguruchilenita instance 10023" x="0" y="1323" width="314" height="393" frameX="0" frameY="-1" frameWidth="328" frameHeight="394"/>
+</TextureAtlas>

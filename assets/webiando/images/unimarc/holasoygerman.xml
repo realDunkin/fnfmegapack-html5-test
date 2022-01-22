@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="holasoygerman.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darkuro instance 10000" x="0" y="0" width="253" height="548" pivotX="-4" pivotY="4.9" frameX="-1" frameY="-11" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10001" x="0" y="0" width="253" height="548" frameX="-1" frameY="-11" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10002" x="305" y="0" width="250" height="550" frameX="-2" frameY="-9" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10003" x="305" y="0" width="250" height="550" frameX="-2" frameY="-9" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10004" x="607" y="0" width="250" height="552" frameX="-2" frameY="-7" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10005" x="607" y="0" width="250" height="552" frameX="-2" frameY="-7" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10006" x="0" y="604" width="250" height="557" frameX="-1" frameY="-2" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10007" x="0" y="604" width="250" height="557" frameX="-1" frameY="-2" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10008" x="302" y="604" width="251" height="559" frameX="0" frameY="-1" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10009" x="302" y="604" width="251" height="559" frameX="0" frameY="-1" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10010" x="605" y="604" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10011" x="605" y="604" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10012" x="0" y="1216" width="250" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10013" x="0" y="1216" width="250" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10014" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10015" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10016" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10017" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10018" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10019" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10020" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10021" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10022" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10023" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10024" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10025" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10026" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10027" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10028" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+	<SubTexture name="darkuro instance 10029" x="302" y="1216" width="251" height="560" frameX="0" frameY="0" frameWidth="254" frameHeight="560"/>
+</TextureAtlas>

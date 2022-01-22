@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="laser.png">
+<SubTexture name="laser idle0000" x="0" y="0" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0001" x="74" y="0" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0002" x="148" y="0" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0003" x="222" y="0" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0004" x="0" y="74" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0005" x="74" y="74" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0006" x="148" y="74" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0007" x="222" y="74" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser idle0008" x="0" y="148" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0000" x="0" y="148" width="74" height="74" frameX="0" frameY="-12" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0001" x="0" y="148" width="74" height="74" frameX="0" frameY="-12" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0002" x="0" y="148" width="74" height="74" frameX="0" frameY="-8" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0003" x="0" y="148" width="74" height="74" frameX="0" frameY="-8" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0004" x="0" y="148" width="74" height="74" frameX="0" frameY="-4" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0005" x="0" y="148" width="74" height="74" frameX="0" frameY="-4" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0006" x="0" y="148" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+<SubTexture name="laser bop0007" x="0" y="148" width="74" height="74" frameX="0" frameY="0" frameWidth="74" frameHeight="74" />
+</TextureAtlas>

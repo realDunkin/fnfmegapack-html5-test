@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stanford.png">
+<SubTexture name="stanford land0000" x="0" y="0" width="446" height="631" frameX="-2" frameY="383" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford land0001" x="446" y="0" width="446" height="631" frameX="-2" frameY="383" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford land0002" x="892" y="0" width="446" height="631" frameX="-2" frameY="383" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford land0003" x="0" y="631" width="446" height="631" frameX="-2" frameY="383" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford dance0000" x="446" y="631" width="393" height="233" frameX="0" frameY="0" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford dance0001" x="839" y="631" width="393" height="233" frameX="0" frameY="0" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford dance0002" x="0" y="1262" width="393" height="233" frameX="0" frameY="0" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford dance0003" x="393" y="1262" width="393" height="233" frameX="0" frameY="0" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford dance0004" x="786" y="1262" width="393" height="233" frameX="0" frameY="0" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0000" x="0" y="1495" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0001" x="591" y="1495" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0002" x="1182" y="1495" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0003" x="0" y="1794" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0004" x="591" y="1794" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+<SubTexture name="stanford shoot0005" x="1182" y="1794" width="591" height="299" frameX="194" frameY="10" frameWidth="591" frameHeight="631" />
+</TextureAtlas>
