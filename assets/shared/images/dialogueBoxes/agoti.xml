@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue_Box.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="open0000" x="0" y="0" width="723" height="324"/>
+	<SubTexture name="normal0000" x="0" y="0" width="723" height="324"/>
+	<SubTexture name="normal0001" x="723" y="0" width="723" height="324"/>
+	<SubTexture name="normal0002" x="1446" y="0" width="723" height="324"/>
+	<SubTexture name="normal0003" x="2169" y="0" width="723" height="324"/>
+	<SubTexture name="normal0004" x="2892" y="0" width="723" height="324"/>
+	<SubTexture name="normal0005" x="0" y="324" width="723" height="324"/>
+	<SubTexture name="normal0006" x="723" y="324" width="723" height="324"/>
+	<SubTexture name="normal0007" x="1446" y="324" width="723" height="324"/>
+	<SubTexture name="normal0008" x="2169" y="324" width="723" height="324"/>
+	<SubTexture name="normal0009" x="2892" y="324" width="723" height="324"/>
+	<SubTexture name="normal0010" x="0" y="648" width="723" height="324"/>
+	<SubTexture name="normal0011" x="723" y="648" width="723" height="324"/>
+	<SubTexture name="normal0012" x="1446" y="648" width="723" height="324"/>
+	<SubTexture name="normal0013" x="2169" y="648" width="723" height="324"/>
+	<SubTexture name="normal0014" x="2892" y="648" width="723" height="324"/>
+	<SubTexture name="normal0015" x="0" y="972" width="723" height="324"/>
+	<SubTexture name="normal0016" x="723" y="972" width="723" height="324"/>
+	<SubTexture name="normal0017" x="1446" y="972" width="723" height="324"/>
+	<SubTexture name="normal0018" x="2169" y="972" width="723" height="324"/>
+	<SubTexture name="normal0019" x="2892" y="972" width="723" height="324"/>
+	<SubTexture name="normal0020" x="0" y="1296" width="723" height="324"/>
+	<SubTexture name="normal0021" x="723" y="1296" width="723" height="324"/>
+	<SubTexture name="normal0022" x="1446" y="1296" width="723" height="324"/>
+	<SubTexture name="normal0023" x="2169" y="1296" width="723" height="324"/>
+	<SubTexture name="normal0024" x="2892" y="1296" width="723" height="324"/>
+	<SubTexture name="normal0025" x="0" y="1620" width="723" height="324"/>
+	<SubTexture name="normal0026" x="723" y="1620" width="723" height="324"/>
+	<SubTexture name="normal0027" x="1446" y="1620" width="723" height="324"/>
+	<SubTexture name="normal0028" x="2169" y="1620" width="723" height="324"/>
+	<SubTexture name="normal0029" x="2892" y="1620" width="723" height="324"/>
+	<SubTexture name="normal0030" x="0" y="1944" width="723" height="324"/>
+	<SubTexture name="normal0031" x="723" y="1944" width="723" height="324"/>
+	<SubTexture name="normal0032" x="1446" y="1944" width="723" height="324"/>
+	<SubTexture name="normal0033" x="2169" y="1944" width="723" height="324"/>
+	<SubTexture name="normal0034" x="2892" y="1944" width="723" height="324"/>
+	<SubTexture name="normal0035" x="0" y="2268" width="723" height="324"/>
+	<SubTexture name="normal0036" x="723" y="2268" width="723" height="324"/>
+	<SubTexture name="normal0037" x="1446" y="2268" width="723" height="324"/>
+	<SubTexture name="normal0038" x="2169" y="2268" width="723" height="324"/>
+	<SubTexture name="normal0039" x="2892" y="2268" width="723" height="324"/>
+</TextureAtlas>

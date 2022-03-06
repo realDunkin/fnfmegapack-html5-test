@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attack_alert_NEW.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kb_attack_animation_alert-single0000" x="8" y="8" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0001" x="268" y="8" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0002" x="528" y="8" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0003" x="8" y="268" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0004" x="268" y="268" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-single0005" x="528" y="268" width="256" height="256"/>
+	<SubTexture name="kb_attack_animation_alert-double0000" x="8" y="528" width="377" height="276"/>
+	<SubTexture name="kb_attack_animation_alert-double0001" x="389" y="528" width="377" height="276"/>
+	<SubTexture name="kb_attack_animation_alert-double0002" x="8" y="808" width="377" height="276"/>
+	<SubTexture name="kb_attack_animation_alert-double0003" x="389" y="808" width="377" height="276"/>
+	<SubTexture name="kb_attack_animation_alert-double0004" x="8" y="1088" width="377" height="276"/>
+	<SubTexture name="kb_attack_animation_alert-double0005" x="389" y="1088" width="377" height="276"/>
+</TextureAtlas>
